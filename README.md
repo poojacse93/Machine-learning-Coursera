@@ -1,6 +1,6 @@
 # Machine-learning-Coursera
 
-Here i have added my code for machine learning course i completed in Andrew Ng course on Coursera.
+Here i have added my code for machine learning course by Andrew Ng on Coursera.
 Ex-1: Linear Regression
 Ex-2: Logistic Regression
 Ex-3: Multiclass classification and Neural Network
